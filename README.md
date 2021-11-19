@@ -9,31 +9,31 @@ Welcome to my capstone project on Spain Macroeconomics View (2004-2018), that is
  https://www.coursera.org/learn/trade-immigration-exchange-rates-globalized-world/peer/JZje8/final-presentation-peer-graded 
 In this peer graded I will have to analyse Spain for the period 2004-2018.
 The next step after studying all the information, is to divide the information in two periods:
-•	2004-2012
-•	2013-2018
+  + 2004-2012
+  + 2013-2018
 
 Now, taking this in consideration, I will have to answer the following questions:
 
-1- Compare investment and savings (expressed as a percent of GDP).
-A)	What do you see?
-B)	Based on what you learned in this course, what would you expect the current account balance to look like in Spain in the 2004-2012? And in the 2013-2018 period?     
-2- Compare your predictions with the current account balance figures you have downloaded for these two periods.
+##### 1- Compare investment and savings (expressed as a percent of GDP).
++ A)	What do you see?
++ B)	Based on what you learned in this course, what would you expect the current account balance to look like in Spain in the 2004-2012? And in the 2013-2018 period?     
+##### 2- Compare your predictions with the current account balance figures you have downloaded for these two periods.
 
-3- What are the differences in the risk profile of Spain between these two periods?
+##### 3- What are the differences in the risk profile of Spain between these two periods?
 
-4- Spain during this period had exchanged its own currency for the euro. If instead it had had its own currency, and all other things remaining equal, what might the trends in the currency´s value have been in the 2004-2012 period? In the 2013-2018 period?
+##### 4- Spain during this period had exchanged its own currency for the euro. If instead it had had its own currency, and all other things remaining equal, what might the trends in the currency´s value have been in the 2004-2012 period? In the 2013-2018 period?
 
-5- If the government had wanted to return the country´s current account to balance, what would have been the right policies for it to follow in 2004-2012? In 2013-2018?
+##### 5- If the government had wanted to return the country´s current account to balance, what would have been the right policies for it to follow in 2004-2012? In 2013-2018?
 
-6- Has anything changed in Spain´s balance of payments profile since 2018?
+##### 6- Has anything changed in Spain´s balance of payments profile since 2018?
 
 
 # DATA: 
 The data is available on the website( www.imf.org ) I can find the latest data from the IMF´s World Economic Outlook, another valuable data source. Go to this page and select Data, and then World Economic Outlook Databases( the link at the time of publication is http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/index.aspx ).Choose Spain for the period 2004-2018. For variables, select the following: 
 
-• Total investment (percent of GDP). 
-• Gross national savings (percent of GDP). 
-• Current account balance (percent of GDP).
++ Total investment (percent of GDP) 
++ Gross national savings (percent of GDP) 
++ Current account balance (percent of GDP)
 
 # ANALYZE STEP:
 Let’s Analyse the Macroeconomic situation of Spain during the year between 2004- 2018 by giving answers above the following questions: 
