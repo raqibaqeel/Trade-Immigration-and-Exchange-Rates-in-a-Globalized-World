@@ -3,7 +3,7 @@
 ## AUTHOR		: RAQIB AQEEL
 ## DATE			: 16/11/2021
 # INTRODUCTION: 
-Welcome to my capstone project on Spain Macroeconomics View (2004-2018), that is part of specialization Globalization, Economic Growth and Stability Specialization course - 2 (Two) Trade, Immigration and Exchange Rates in a Globalized world.
+Welcome to my capstone project on Spain Macroeconomics View (2004-2018), that is part of specialization Globalization, Economic Growth and Stability course - 2 (Two) Trade, Immigration and Exchange Rates in a Globalized world.
 
 # TASK: 
  https://www.coursera.org/learn/trade-immigration-exchange-rates-globalized-world/peer/JZje8/final-presentation-peer-graded 
