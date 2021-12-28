@@ -107,6 +107,8 @@ Has anything changed in Spain´s balance of payments profile since 2018?
 
 ![image](https://user-images.githubusercontent.com/90096554/142668458-de1fdda3-4b2a-4640-aae4-3bcab157fe8b.png)
 
+![image](https://user-images.githubusercontent.com/90096554/147538843-60632235-8c63-40bc-a9e4-22a089c3c56b.png)
+
 Yes, there has some changes happened in the balance of payments as the based till year 2021. According to the Data above from the IMF website it shows that, In the year 2019 current account has increased to 2.136 from 1.93 in 2018, it’s means surplus increased and fell down again in the year 2021 to 0.413. But still Spain has current account surplus. 
 
 ## CONCLUSION:  - 
